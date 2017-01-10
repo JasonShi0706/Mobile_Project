@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>419CF321-0FDE-4554-B515-982BB95804AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Simplesgram</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DCCD83E9B93D7248C53CC6FE95C9D724F293C3A</key>
+		<string>https://bitbucket.org/unimelb_mobil_team/mobile_project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Simplesgram.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DCCD83E9B93D7248C53CC6FE95C9D724F293C3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/unimelb_mobil_team/mobile_project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DCCD83E9B93D7248C53CC6FE95C9D724F293C3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DCCD83E9B93D7248C53CC6FE95C9D724F293C3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mobile_project</string>
+		</dict>
+	</array>
+</dict>
+</plist>

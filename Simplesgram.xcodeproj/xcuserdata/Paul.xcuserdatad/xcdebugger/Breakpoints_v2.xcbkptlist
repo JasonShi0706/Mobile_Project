@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Simplesgram/DiscoveryViewController.swift"
+            timestampString = "466341222.537138"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "DiscoveryViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simplesgram.DiscoveryViewController.userSearchBar.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISearchBar&gt;"
+                  moduleName = "Simplesgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Paul/mobile_project/Simplesgram/DiscoveryViewController.swift"
+                  timestampString = "466341307.076039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simplesgram.DiscoveryViewController.userSearchBar.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISearchBar&gt;"
+                  moduleName = "Simplesgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Paul/mobile_project/Simplesgram/DiscoveryViewController.swift"
+                  timestampString = "466341307.076149"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simplesgram.DiscoveryViewController.init (Simplesgram.DiscoveryViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Simplesgram.DiscoveryViewController"
+                  moduleName = "Simplesgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Paul/mobile_project/Simplesgram/DiscoveryViewController.swift"
+                  timestampString = "466341307.076252"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simplesgram.DiscoveryViewController.init (Simplesgram.DiscoveryViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;Simplesgram.DiscoveryViewController&gt;"
+                  moduleName = "Simplesgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Paul/mobile_project/Simplesgram/DiscoveryViewController.swift"
+                  timestampString = "466341307.076352"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Simplesgram/DiscoveryViewController.swift"
+            timestampString = "466341331.751686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "DiscoveryViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
